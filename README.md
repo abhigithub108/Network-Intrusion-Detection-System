@@ -1,17 +1,7 @@
 # Network-Intrusion-Detection-Using-Deep-Learning
 ## Objective : 
 Cyber Security: Development of Network Intrusion Detection System (NIDS),   with Machine Learning and Deep Learning, Recurrent Neural Network models, MERN web I/O System.
-## To run locally on your system:
-### Method - 1 :-
-step-1: Keep the Docker Desktop and Docker Hub running parallelly on your system then open the command prompt or terminal and run the following command [docker run --publish 3000:3000 saif0786/nids].
 
-step-2: You can now check the running of the service on your browser by typing [http://localhost:3000] as per shown above.
-
-### Method - 2 :-
-Step-1 : Fork or Clone the project using command [git clone "https://github.com/Shaik-Sohail-72/Network-Intrusion-Detection-Using-Deep-Learning.git"]   
-Step-2 : Create a .env file and set up the dovenv variable which is used in app.js (or) remove dotenv variables from app.js and set the links like mongoDB link etc.            
-Step-3 : Use command [npm install] to install all the packages.                                                                                                          
-Step-4 : Use command [node app.js] to run it locally.
 ## Description : 
 Large numbers of businesses were affected by data infringes and Cyber -attacks due to dependency on internet. To prevent such malicious activity, the network requires a system that detects anomaly and inform the user and alerts the user. 
 
@@ -36,8 +26,6 @@ The project is fully responsive and completely based on session and cookies conc
 ![6](https://user-images.githubusercontent.com/106341416/209460186-368aa0a1-cb24-4055-8dcf-8c56550e2921.png)
 
 ![7](https://user-images.githubusercontent.com/106341416/209460190-6973ebff-6f33-41f5-aa3f-f402f1f5fa4e.png)
-
-![8](https://user-images.githubusercontent.com/106341416/209460192-72023074-7b62-44ca-b7f4-d099208da448.png)
 
 ![9](https://user-images.githubusercontent.com/106341416/209460197-cc7e6285-7387-4796-b43c-5583b7939f35.png)
 
@@ -68,8 +56,6 @@ The project is fully responsive and completely based on session and cookies conc
 ![22](https://user-images.githubusercontent.com/106341416/209460239-ecc44806-b731-4676-a68b-cd9f0b064e95.png)
 
 ![23](https://user-images.githubusercontent.com/106341416/209460242-a8306b45-6a88-4941-8433-645caeaa00df.png)
-
-![24](https://user-images.githubusercontent.com/106341416/209460245-bcf656a8-407a-4618-9a93-a301a23a2707.png)
 
 ![25](https://user-images.githubusercontent.com/106341416/209460250-b93aacdc-4d00-4dd6-95c7-3e341494a112.png)
 
